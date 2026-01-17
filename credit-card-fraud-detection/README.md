@@ -58,16 +58,15 @@ credit-card-fraud-detection/
 ├── src/
 │   ├── __init__.py          # Package initialization
 │   ├── data_loading.py      # Data loading utilities
-│   ├── preprocessing.py     # Data preprocessing functions
+│   ├── preprocessing.py     # Data preprocessing 
 │   ├── models.py            # Anomaly detection models
 │   ├── evaluation.py        # Model evaluation metrics
 │   └── visualization.py     # Plotting functions
 ├── data/
 │   └── README.md            # Dataset instructions
 ├── outputs/
-│   └── figures/             # Generated visualizations
-└── reports/
-    └── project_summary.md   # Project summary report
+    └── figures/             # Generated visualizations
+
 ```
 
 # Methodology
